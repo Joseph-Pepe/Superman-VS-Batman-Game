@@ -2,5 +2,7 @@
 This is a 2D shooting game.(Developed in the Greenfoot game engine  using the Java programming language)
 
 
-https://www.greenfoot.org/scenarios/21840
+Download Link: https://www.greenfoot.org/scenarios/21840
+
+Gameplay Video Link: https://youtu.be/n-wlCL0Tjo8
 
