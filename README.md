@@ -4,5 +4,5 @@ This is a 2D shooting game.(Developed in the Greenfoot game engine  using the Ja
 
 Download Link: https://www.greenfoot.org/scenarios/21840
 
-Gameplay Video Link: https://youtube/n-wlCL0Tjo8
+Gameplay Video Link: https://youtu.be/n-wlCL0Tjo8
 
