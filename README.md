@@ -1,9 +1,26 @@
-# SuperHero-Battle
+
+SuperHero-Battle
+
+-----
+
 This is a 2D shooting game.(Developed in the Greenfoot game engine  using the Java programming language)
 
+<b>Note:</b> There is an abstract class called Actor that is a part of the Greenfoot game engine.
 
-Download Link: https://www.greenfoot.org/scenarios/21840
+-----
 
-Gameplay Video Link: https://youtu.be/n-wlCL0Tjo8
+<b>Download Link</b>
 
-Note: There is an abstract class called Actor that is a part of the Greenfoot game engine.
+-----
+
+https://www.greenfoot.org/scenarios/21840
+
+-----
+
+<b>Gameplay Video Link</b>
+
+-----
+
+https://youtu.be/n-wlCL0Tjo8
+
+
