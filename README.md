@@ -2,7 +2,7 @@
 
 -----
 
-This is a 2D shooting game.(Developed in the Greenfoot game engine  using the Java programming language)
+This is a 2D super hero game.(Developed in the Greenfoot game engine  using the Java programming language)
 
 <b>Note:</b> There is an abstract class called Actor that is a part of the Greenfoot game engine.
 
